@@ -1,14 +1,14 @@
 # Hi there 🦑
 `whoami`
-I'm Quentin
-I'm a Computer Science student at Eastern Kentucky University.
-I enjoy sci-fi and horror movies.
+<p> I'm Quentin </p>
+<p> I'm a Computer Science student at Eastern Kentucky University. </p>
+<p> I enjoy sci-fi and horror movies. </p>
 
 `pwd`
-This is my github account for school.
+<p> This is my github account for school. </p>
 
 `ls -l`
-my-first-gatsby-site: This is the website that I made for senior seminar.
+<p> my-first-gatsby-site: This is the website that I made for senior seminar. </p>
 
 <!--
 **quentinpattersonEKU/quentinpattersonEKU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
